@@ -4,15 +4,15 @@ Fall 2020
 Prof. Joey Paquet
 
 # Authors:
-Marco Bucciacchio - 40032872
+Marco Bucciacchio
 
-Gabriel Desroches - 40099529
+Gabriel Desroches 
 
-Lina Kretzschmar - 40117465
+Lina Kretzschmar 
 
-Antoine Paulin-Bessette - 40098918
+Antoine Paulin-Bessette 
 
-Briana Toia - 40097889
+Briana Toia 
 
 
 The C++ Risk Game is a project created in a team of 5 within the scope of a C++ course I took at Concordia in 2020. All our team members developed great C++ skills and learned to use GIT in order to collaborate seamlessly. The project was split into 3 assignments and the work was split up per individual. Although the development was sequential at times, my team's excellent communication skills enabled us to work through each assignment seamlessly. I wrote the player class, half of the game setup phase and contributed to the player strategies. Revising my teammates pull requests on GIT was just as important as writing my own code.
